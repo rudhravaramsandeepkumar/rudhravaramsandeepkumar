@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeepkumarrudhravaram/](https://www.linkedin.com/in/sandeepkumarrudhravaram/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 - 📫 How to reach me **rudhravaram.sandeep.kumar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram/](https://www.linkedin.com/in/sandeepkumarrudhravaram/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
