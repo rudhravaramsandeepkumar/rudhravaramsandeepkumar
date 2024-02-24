@@ -1,3 +1,12 @@
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] -->
+<style>
+    table {
+      width: auto;
+      border: 0;
+      border-collapse: collapse; /* To ensure there's no space between cells */
+    }
+  </style>
+
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
