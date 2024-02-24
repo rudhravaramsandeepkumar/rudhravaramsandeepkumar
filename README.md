@@ -9,18 +9,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
-<table>
-<tr>
-<td valign="top">
+<div style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sandeepkumar_rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sandeepkumar_rsk" height="30" width="40" /></a>
 <a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
-</td>
 
-<td valign="top">
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,9 +36,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 </p>
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
