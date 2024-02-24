@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <div style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +18,10 @@
 <a href="https://www.hackerearth.com/@sandeepkumar_rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sandeepkumar_rsk" height="30" width="40" /></a>
 <a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
-
-<h3 align="right">Programming Languages:</h3>
-<p align="right"> 
+</div>
+<div>
+<h3 align="left">Programming Languages:</h3>
+<p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -37,8 +39,9 @@
 </a>
 </p>
 </div>
+</div>
 
-<div>
+<div style="flex: 1;">
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
