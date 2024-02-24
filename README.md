@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <div style="display: flex; justify-content: space-between;">
-<div style="flex: 1;">
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 </p>
 </div>
 
-<div style="flex: 1;">
+<div>
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
