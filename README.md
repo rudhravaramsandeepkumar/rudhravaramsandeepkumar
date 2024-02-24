@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <div style="display: flex; justify-content: space-between;">
-<div style="flex: 1;">
+<div style="flex: 1; !importent">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
