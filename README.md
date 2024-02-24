@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/rudhravaramsandeepkumar/images/raw/main/skr3low.png)]
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
@@ -37,8 +38,8 @@
 </a>
 </p>
 </div>
-</div>
 
+<div style="flex: 1;">
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -58,6 +59,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 </p>
+</div>
+</div>
 
 <h3 align="left">Data Visualization:</h3>
 <p align="left">
