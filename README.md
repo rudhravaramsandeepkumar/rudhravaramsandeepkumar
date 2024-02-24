@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/rudhravaramsandeepkumar/images/raw/main/skr3low.png)]
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
@@ -9,13 +10,18 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
+<table>
+<tr>
+<td valign="top">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sandeepkumar_rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sandeepkumar_rsk" height="30" width="40" /></a>
 <a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
+</td>
 
+<td valign="top">
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -34,6 +40,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 </p>
+</td>
+</tr>
+</table>
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
