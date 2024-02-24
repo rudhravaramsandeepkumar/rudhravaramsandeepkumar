@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/rudhravaramsandeepkumar/images/raw/main/skr3low.png)]
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
