@@ -25,7 +25,7 @@
 <a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
 
-<table>
+<table style="width: auto;border: 0;border-collapse: collapse;">
 <tr>
 <td valign="top">
 <h3 align="left">Programming Languages:</h3>    
