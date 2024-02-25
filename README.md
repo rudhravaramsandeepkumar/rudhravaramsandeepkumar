@@ -45,7 +45,6 @@
         </a>
       </p>
     </td>
-    
     <td valign="top" style="width:50%">
       <h3 align="left">Frontend Development:</h3>
       <p align="left">
