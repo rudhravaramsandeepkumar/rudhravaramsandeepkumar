@@ -27,8 +27,8 @@
 
 | Category                | Details                                                                                                            |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Programming Languages  | - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python<br>- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C<br>- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++<br>- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#<br>- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |
-| Frontend Development   | - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML<br>- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS   |
+| Programming Languages  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"> C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> C++<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"> C#<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> JavaScript |
+| Frontend Development   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"> HTML<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"> CSS   |
 
 
 
