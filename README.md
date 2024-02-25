@@ -25,32 +25,10 @@
 
 ## Skills
 
-| ### Programming Languages | ### Frontend Development |
-|----------------------------|--------------------------|
-|![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  |      ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  |
-| | |
+| Programming Languages | Frontend Development |
+|-----------------------|----------------------|
+| <table><tr><th>Language</th><th>Logo</th></tr><tr><td>Python</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></td></tr><tr><td>C</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"></td></tr><tr><td>C++</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></td></tr><tr><td>C#</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></td></tr><tr><td>JavaScript</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></td></tr></table> | <table><tr><th>Technology</th><th>Logo</th></tr><tr><td>HTML</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"></td></tr><tr><td>CSS</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"></td></tr></table> |
 
-<details>
-  <summary><strong>Programming Languages</strong></summary>
-  
-  | Language   | Logo                                                                                   |
-  |------------|----------------------------------------------------------------------------------------|
-  | Python     | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)       |
-  | C          | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)                   |
-  | C++        | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
-  | C#         | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)         |
-  | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-
-</details>
-
-<details>
-  <summary><strong>Frontend Development</strong></summary>
-  
-  | Technology | Logo                                                                                   |
-  |------------|----------------------------------------------------------------------------------------|
-  | HTML       | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)       |
-  | CSS        | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
-</details>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudhravaramsandeepkumar&show_icons=true&locale=en&layout=compact" alt="rudhravaramsandeepkumar" /></p>
