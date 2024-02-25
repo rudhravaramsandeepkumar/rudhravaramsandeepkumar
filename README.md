@@ -1,5 +1,11 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] -->
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
@@ -150,3 +156,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudhravaramsandeepkumar&show_icons=true&locale=en" alt="rudhravaramsandeepkumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudhravaramsandeepkumar&" alt="rudhravaramsandeepkumar" /></p>
+</body>
+</html>
