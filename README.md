@@ -25,7 +25,7 @@
 
 <table style="width:20%">
 <tr>
-<td valign="top">
+<td valign="top" style="width:20%">
 <h3 align="left">Programming Languages:</h3>    
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
