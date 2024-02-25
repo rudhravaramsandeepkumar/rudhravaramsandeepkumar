@@ -25,7 +25,7 @@
 
 <table style="width:20%">
   <tr>
-    <td valign="top" style="width:50%">
+    <td valign="top" style="width:10%">
       <h3 align="left">Programming Languages:</h3>    
       <p align="left"> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -45,7 +45,7 @@
         </a>
       </p>
     </td>
-    <td valign="top" style="width:50%">
+    <td valign="top" style="width:10%">
       <h3 align="left">Frontend Development:</h3>
       <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
