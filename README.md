@@ -25,7 +25,10 @@
 
 ## Skills
 
-### Programming Languages
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; margin-right: 10px;">
+<h3>Programming Languages</h3>
 
 | Language   | Logo                                                                                   |
 |------------|----------------------------------------------------------------------------------------|
@@ -34,13 +37,18 @@
 | C++        | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
 | C#         | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)         |
 | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+</div>
 
-### Frontend Development
+<div style="flex: 1; margin-left: 10px;">
+<h3>Frontend Development</h3>
 
 | Technology | Logo                                                                                   |
 |------------|----------------------------------------------------------------------------------------|
 | HTML       | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)       |
 | CSS        | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
+</div>
+
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudhravaramsandeepkumar&show_icons=true&locale=en&layout=compact" alt="rudhravaramsandeepkumar" /></p>
