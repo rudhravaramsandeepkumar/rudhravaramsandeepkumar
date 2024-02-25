@@ -25,20 +25,10 @@
 
 ## Skills
 
-### Programming Languages
-
-- Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- C ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- C++ ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- C# ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-- JavaScript ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-### Frontend Development
-
-- HTML ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- CSS ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-
-
+| Category                | Details                                                                                                            |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Programming Languages  | - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python<br>- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C<br>- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++<br>- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#<br>- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |
+| Frontend Development   | - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML<br>- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS   |
 
 
 
