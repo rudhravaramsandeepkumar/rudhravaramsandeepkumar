@@ -24,28 +24,14 @@
 </p>
 ## Skills
 
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h3>Programming Languages</h3>
+| Programming Languages                           | Frontend Development                                    |
+|-------------------------------------------------|---------------------------------------------------------|
+| Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | HTML ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
+| C ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)                   | CSS ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
+| C++ ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |                                                            |
+| C# ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)         |                                                            |
+| JavaScript ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |                                                            |
 
-        | Language   | Logo                                                                                   |
-        |------------|----------------------------------------------------------------------------------------|
-        | Python     | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)       |
-        | C          | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)                   |
-        | C++        | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
-        | C#         | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)         |
-        | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-    </div>
-
-    <div style="flex: 1; margin-left: 10px;">
-        <h3>Frontend Development</h3>
-
-        | Technology | Logo                                                                                   |
-        |------------|----------------------------------------------------------------------------------------|
-        | HTML       | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)       |
-        | CSS        | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
-    </div>
-</div>
 
 
 
