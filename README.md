@@ -22,12 +22,31 @@
 <a href="https://www.hackerearth.com/@sandeepkumar_rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sandeepkumar_rsk" height="30" width="40" /></a>
 <a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
-
 ## Skills
 
-| Programming Languages | Frontend Development |
-|-----------------------|----------------------|
-| <table><tr><th>Language</th><th>Logo</th></tr><tr><td>Python</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></td></tr><tr><td>C</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"></td></tr><tr><td>C++</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></td></tr><tr><td>C#</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></td></tr><tr><td>JavaScript</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></td></tr></table> | <table><tr><th>Technology</th><th>Logo</th></tr><tr><td>HTML</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"></td></tr><tr><td>CSS</td><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"></td></tr></table> |
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>Programming Languages</h3>
+
+        | Language   | Logo                                                                                   |
+        |------------|----------------------------------------------------------------------------------------|
+        | Python     | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)       |
+        | C          | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)                   |
+        | C++        | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
+        | C#         | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)         |
+        | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+    </div>
+
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>Frontend Development</h3>
+
+        | Technology | Logo                                                                                   |
+        |------------|----------------------------------------------------------------------------------------|
+        | HTML       | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)       |
+        | CSS        | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
+    </div>
+</div>
+
 
 
 
