@@ -27,7 +27,7 @@
 
 | ### Programming Languages | ### Frontend Development |
 |----------------------------|--------------------------|
-|Python  | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)       |
+|![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  |      ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  |
 | | |
 
 <details>
