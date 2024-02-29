@@ -42,8 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudhravaramsandeepkumar&show_icons=true&locale=en&layout=compact" alt="rudhravaramsandeepkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudhravaramsandeepkumar&show_icons=true&locale=en" alt="rudhravaramsandeepkumar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudhravaramsandeepkumar&" alt="rudhravaramsandeepkumar" /></p>
 </body>
 </html>
