@@ -32,8 +32,8 @@
 - Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
 - Actively pursuing AWS Cloud Practitioner and Solutions Architect certifications to further my knowledge in cloud technologies.
 
-## How to Reach Me
-- 📫 Email: **SandeepKumarRudhravaram@my.unt.edu**
+## 📫 How to Reach Me
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="10" width="20" /> Email: **SandeepKumarRudhravaram@my.unt.edu**
 - 📄 LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <h3 align="left">Connect with me:</h3>
