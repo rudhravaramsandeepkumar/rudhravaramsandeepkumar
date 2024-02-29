@@ -34,7 +34,7 @@
 
 ## 📫 How to Reach Me
 - 📄 Email: **SandeepKumarRudhravaram@my.unt.edu**
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="20" width="30" />  LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="15" width="25" />  LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
