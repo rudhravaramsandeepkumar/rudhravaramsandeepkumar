@@ -9,6 +9,33 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h3 align="center">🔍 Exploring the nexus of cloud innovation and machine learning, committed to crafting resilient, scalable solutions. Dive into my journey of impactful projects across Python, Flask, Django, and .NET. 🚀</h3>
 
+### Hi there, I'm Sandeep Kumar Rudhravaram 👋
+
+I'm a seasoned software developer with a passion for creating innovative solutions and a strong background in Python, Flask, Django, and Asp.Net. With over 4 years of experience in product development and team management, I specialize in web application development, configuration, and hosting. I'm currently pursuing my Master’s in Computer Science at the University of North Texas, where I'm deepening my expertise in software engineering and database systems.
+
+#### 🛠 Technical Skills
+- **Languages**: C, Python, C#, C++, HTML, CSS, JS, SQL, Shell Scripting
+- **Frameworks**: .NET, Flask, Django, Django REST framework
+- **Databases**: SQL Server, MySQL, MongoDB
+- **Tools & Platforms**: Docker, GitHub, Azure, GCP, AWS, Pandas, IntelliJ, Eclipse, Git, TFS
+- **Other Skills**: Machine Learning, Data Analysis, Cloud Infrastructure, Agile Development
+
+#### 💼 Professional Experience
+- **iAssist Innovations Labs**: I've played a key role in developing and optimizing health insurance claim processing applications, leveraging Python and Flask to enhance system security and functionality. My work has included everything from SDLC orchestration to leading teams in the deployment of scalable microservices.
+- **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of UCustoms, a modernization solution for the Royal Malaysian Customs Department, enhancing user satisfaction and system stability through meticulous development and testing.
+
+#### 🎓 Academic Projects
+- **PDF Analyzer**: Developed a system for automatic PDF analysis, extracting key elements and generating word frequency charts for efficient document comprehension.
+- **Event Sphere**: Led the development of a platform for crafting tailor-made events, enhancing participant engagement and facilitating data-driven decision-making.
+
+#### 🏆 Certifications & Achievements
+- Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
+- Actively pursuing AWS Cloud Practitioner and Solutions Architect certifications to further my knowledge in cloud technologies.
+
+#### 📫 How to Reach Me
+- Email: SandeepKumarRudhravaram@my.unt.edu
+- LinkedIn: [Your LinkedIn Profile URL]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
