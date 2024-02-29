@@ -8,6 +8,7 @@
 <body>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
 <h2 align="center"></h2>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
 🔍 Exploring the nexus of cloud innovation and machine learning, I am committed to crafting resilient and scalable solutions that drive technological advancement and operational efficiency. As a seasoned software developer with a fervent passion for creating innovative solutions, I bring a robust background in Python, Flask, Django, and Asp.Net to the table. With over 4 years of experience in product development and team management, I specialize in the nuanced realms of web application development, configuration, and hosting.Currently, I am enriching my academic and practical knowledge by pursuing a Master’s in Computer Science at the University of North Texas. Here, I am not just deepening my expertise in software engineering and database systems, but also exploring how cutting-edge technologies can be harmonized to solve complex problems and enhance user experiences. My journey is one of continuous learning and application, where each project is an opportunity to innovate and each challenge, a stepping stone to greater achievements. 🚀
 
 #### 💼 Professional Experience
@@ -22,17 +23,9 @@
 - Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
 - Actively pursuing AWS Cloud Practitioner and Solutions Architect certifications to further my knowledge in cloud technologies.
 
-#### 📫 How to Reach Me
-- Email: SandeepKumarRudhravaram@my.unt.edu
-- LinkedIn: [Your LinkedIn Profile URL]
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
-
-- 📫 How to reach me **rudhravaram.sandeep.kumar@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
+#### How to Reach Me
+- 📫 Email: **SandeepKumarRudhravaram@my.unt.edu**
+- 📄 LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
