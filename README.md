@@ -10,13 +10,6 @@
 <h2 align="center"></h2>
 🔍 Exploring the nexus of cloud innovation and machine learning, I am committed to crafting resilient and scalable solutions that drive technological advancement and operational efficiency. As a seasoned software developer with a fervent passion for creating innovative solutions, I bring a robust background in Python, Flask, Django, and Asp.Net to the table. With over 4 years of experience in product development and team management, I specialize in the nuanced realms of web application development, configuration, and hosting.Currently, I am enriching my academic and practical knowledge by pursuing a Master’s in Computer Science at the University of North Texas. Here, I am not just deepening my expertise in software engineering and database systems, but also exploring how cutting-edge technologies can be harmonized to solve complex problems and enhance user experiences. My journey is one of continuous learning and application, where each project is an opportunity to innovate and each challenge, a stepping stone to greater achievements. 🚀
 
-#### 🛠 Technical Skills
-- **Languages**: C, Python, C#, C++, HTML, CSS, JS, SQL, Shell Scripting
-- **Frameworks**: .NET, Flask, Django, Django REST framework
-- **Databases**: SQL Server, MySQL, MongoDB
-- **Tools & Platforms**: Docker, GitHub, Azure, GCP, AWS, Pandas, IntelliJ, Eclipse, Git, TFS
-- **Other Skills**: Machine Learning, Data Analysis, Cloud Infrastructure, Agile Development
-
 #### 💼 Professional Experience
 - **iAssist Innovations Labs**: I've played a key role in developing and optimizing health insurance claim processing applications, leveraging Python and Flask to enhance system security and functionality. My work has included everything from SDLC orchestration to leading teams in the deployment of scalable microservices.
 - **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of UCustoms, a modernization solution for the Royal Malaysian Customs Department, enhancing user satisfaction and system stability through meticulous development and testing.
