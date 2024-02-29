@@ -20,19 +20,19 @@
 | <span style="background-color: lightblue;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></span>| <span style="background-color: lightgreen;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"> </span>   |
 
 
-#### 💼 Professional Experience
+## 💼 Professional Experience
 - **iAssist Innovations Labs**: I've played a key role in developing and optimizing health insurance claim processing applications, leveraging Python and Flask to enhance system security and functionality. My work has included everything from SDLC orchestration to leading teams in the deployment of scalable microservices.
 - **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of UCustoms, a modernization solution for the Royal Malaysian Customs Department, enhancing user satisfaction and system stability through meticulous development and testing.
 
-#### 🎓 Academic Projects
+## 🎓 Academic Projects
 - **PDF Analyzer**: Developed a system for automatic PDF analysis, extracting key elements and generating word frequency charts for efficient document comprehension.
 - **Event Sphere**: Led the development of a platform for crafting tailor-made events, enhancing participant engagement and facilitating data-driven decision-making.
 
-#### 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 - Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
 - Actively pursuing AWS Cloud Practitioner and Solutions Architect certifications to further my knowledge in cloud technologies.
 
-#### How to Reach Me
+## How to Reach Me
 - 📫 Email: **SandeepKumarRudhravaram@my.unt.edu**
 - 📄 LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
