@@ -12,11 +12,11 @@
 
 # 💼 Career Highlights
 
-## 🏥 Health Insurance Claims  
+### 🏥 Health Insurance Claims  
 - Led development of a **Flask-based automation system** achieving **95%+ accuracy** in claims processing.  
 - Integrated a **computer vision module** for automated document data extraction.
 
-## 🧩 Microservices & APIs  
+### 🧩 Microservices & APIs  
 - Designed and deployed **10+ RESTful APIs**, adopted by **500+ hospitals**.  
 - Embedded **machine learning models** for claim risk prediction with **80% accuracy**.
 
