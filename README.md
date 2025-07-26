@@ -8,9 +8,7 @@
 <body>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
-🔍 I'm a full-stack software engineer with over 7 years of experience building scalable, cloud-native applications and AI-powered solutions. I specialize in backend development using 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗙𝗹𝗮𝘀𝗸, 𝗗𝗷𝗮𝗻𝗴𝗼) 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮, and also bring strong expertise in frontend technologies like 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗡𝗼𝗱𝗲.𝗷𝘀.
-
-My work spans across 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗰𝗹𝗼𝘂𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻, 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. Currently pursuing my Master's in Computer Science at UNT, I combine academic depth with real-world impact delivering robust, user-centric products across industries like health tech, accessibility, and automation.
+🔍 I'm a full-stack software engineer with over 7 years of experience building scalable, cloud-native applications and AI-powered solutions. I specialize in backend development using 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗙𝗹𝗮𝘀𝗸, 𝗗𝗷𝗮𝗻𝗴𝗼) 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮, and also bring strong expertise in frontend technologies like 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗡𝗼𝗱𝗲.𝗷𝘀.My work spans across 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗰𝗹𝗼𝘂𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻, 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. Currently pursuing my Master's in Computer Science at UNT, I combine academic depth with real-world impact delivering robust, user-centric products across industries like health tech, accessibility, and automation.
 
 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 •	𝗛𝗲𝗮𝗹𝘁𝗵 𝗜𝗻𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗖𝗹𝗮𝗶𝗺𝘀: Led development of a Flask-based automation system with 95%+ claim processing accuracy; added a computer vision module for data extraction.
