@@ -8,7 +8,19 @@
 <body>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Rudhravaram</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
-🔍 Exploring the nexus of cloud innovation and machine learning, I am committed to crafting resilient and scalable solutions that drive technological advancement and operational efficiency. As a seasoned software developer with a fervent passion for creating innovative solutions, I bring a robust background in Python, Flask, Django, and Asp.Net to the table. With over 4 years of experience in product development and team management, I specialize in the nuanced realms of web application development, configuration, and hosting.Currently, I am enriching my academic and practical knowledge by pursuing a Master’s in Computer Science at the University of North Texas. Here, I am not just deepening my expertise in software engineering and database systems, but also exploring how cutting-edge technologies can be harmonized to solve complex problems and enhance user experiences. My journey is one of continuous learning and application, where each project is an opportunity to innovate and each challenge, a stepping stone to greater achievements. 🚀
+🔍 I'm a full-stack software engineer with over 7 years of experience building scalable, cloud-native applications and AI-powered solutions. I specialize in backend development using 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗙𝗹𝗮𝘀𝗸, 𝗗𝗷𝗮𝗻𝗴𝗼) 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮, and also bring strong expertise in frontend technologies like 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗡𝗼𝗱𝗲.𝗷𝘀.
+
+My work spans across 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗰𝗹𝗼𝘂𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻, 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. Currently pursuing my Master's in Computer Science at UNT, I combine academic depth with real-world impact delivering robust, user-centric products across industries like health tech, accessibility, and automation.
+
+𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+•	𝗛𝗲𝗮𝗹𝘁𝗵 𝗜𝗻𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗖𝗹𝗮𝗶𝗺𝘀: Led development of a Flask-based automation system with 95%+ claim processing accuracy; added a computer vision module for data extraction.
+•	𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 & 𝗔𝗣𝗜𝘀: Developed 10+ RESTful APIs adopted by 500+ hospitals; integrated ML models for claim risk prediction with 80% accuracy.
+•	𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀: Managed production infrastructure on AWS and Azure, implemented CI/CD with GitHub Actions and Docker, improving release speed by 80%.
+•	𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Delivered dynamic apps using React, Node.js, and Flask, combining responsive UI with robust backend logic.
+•	𝗨𝗜/𝗨𝗫 𝗙𝗼𝗰𝘂𝘀: Improved product efficiency by 85% through thoughtful UX design and validation logic, reducing errors by 45%.
+•	𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Reduced query latency by 40% through ETL and performance tuning across SQL and NoSQL systems.
+
+I'm passionate about solving complex problems with clean, scalable code. I’m currently exploring opportunities where I can contribute to cutting-edge backend, cloud, or AI products—while continuing to grow as a full-stack engineer and cloud specialist. 🚀
 
   ## 🛠 Skills
 
