@@ -12,27 +12,27 @@
 
 # 💼 Career Highlights
 
-### 🏥 Health Insurance Claims  
+### Health Insurance Claims  
 - Led development of a **Flask-based automation system** achieving **95%+ accuracy** in claims processing.  
 - Integrated a **computer vision module** for automated document data extraction.
 
-### 🧩 Microservices & APIs  
+### Microservices & APIs  
 - Designed and deployed **10+ RESTful APIs**, adopted by **500+ hospitals**.  
 - Embedded **machine learning models** for claim risk prediction with **80% accuracy**.
 
-## ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 - Managed production infrastructure on **AWS and Azure**.  
 - Set up **CI/CD pipelines** using **GitHub Actions and Docker**, increasing release speed by **80%**.
 
-## 🖥 Full-Stack Development  
+### Full-Stack Development  
 - Built dynamic web apps using **React**, **Node.js**, and **Flask**.  
 - Combined responsive UI design with robust backend logic for scalable products.
 
-## 🎨 UI/UX Focus  
+### UI/UX Focus  
 - Enhanced product efficiency by **85%** through UX optimization and front-end validation.  
 - Reduced user-facing errors by **45%** via thoughtful interaction design.
 
-## 🛢 Database Optimization  
+### Database Optimization  
 - Improved query performance by **40%** through **ETL pipelines** and database tuning.  
 - Worked across **SQL** and **NoSQL** systems to support high-performance data workflows.
 
