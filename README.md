@@ -10,13 +10,32 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhravaramsandeepkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rudhravaramsandeepkumar" /> </p>
 🔍 I'm a full-stack software engineer with over 7 years of experience building scalable, cloud-native applications and AI-powered solutions. I specialize in backend development using 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗙𝗹𝗮𝘀𝗸, 𝗗𝗷𝗮𝗻𝗴𝗼) 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮, and also bring strong expertise in frontend technologies like 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗡𝗼𝗱𝗲.𝗷𝘀.My work spans across 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗰𝗹𝗼𝘂𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻, 𝗗𝗲𝘃𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. Currently pursuing my Master's in Computer Science at UNT, I combine academic depth with real-world impact delivering robust, user-centric products across industries like health tech, accessibility, and automation.
 
-𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
-•	𝗛𝗲𝗮𝗹𝘁𝗵 𝗜𝗻𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗖𝗹𝗮𝗶𝗺𝘀: Led development of a Flask-based automation system with 95%+ claim processing accuracy; added a computer vision module for data extraction.
-•	𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 & 𝗔𝗣𝗜𝘀: Developed 10+ RESTful APIs adopted by 500+ hospitals; integrated ML models for claim risk prediction with 80% accuracy.
-•	𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀: Managed production infrastructure on AWS and Azure, implemented CI/CD with GitHub Actions and Docker, improving release speed by 80%.
-•	𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Delivered dynamic apps using React, Node.js, and Flask, combining responsive UI with robust backend logic.
-•	𝗨𝗜/𝗨𝗫 𝗙𝗼𝗰𝘂𝘀: Improved product efficiency by 85% through thoughtful UX design and validation logic, reducing errors by 45%.
-•	𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Reduced query latency by 40% through ETL and performance tuning across SQL and NoSQL systems.
+# 💼 Career Highlights
+
+## 🏥 Health Insurance Claims  
+- Led development of a **Flask-based automation system** achieving **95%+ accuracy** in claims processing.  
+- Integrated a **computer vision module** for automated document data extraction.
+
+## 🧩 Microservices & APIs  
+- Designed and deployed **10+ RESTful APIs**, adopted by **500+ hospitals**.  
+- Embedded **machine learning models** for claim risk prediction with **80% accuracy**.
+
+## ☁️ Cloud & DevOps  
+- Managed production infrastructure on **AWS and Azure**.  
+- Set up **CI/CD pipelines** using **GitHub Actions and Docker**, increasing release speed by **80%**.
+
+## 🖥 Full-Stack Development  
+- Built dynamic web apps using **React**, **Node.js**, and **Flask**.  
+- Combined responsive UI design with robust backend logic for scalable products.
+
+## 🎨 UI/UX Focus  
+- Enhanced product efficiency by **85%** through UX optimization and front-end validation.  
+- Reduced user-facing errors by **45%** via thoughtful interaction design.
+
+## 🛢 Database Optimization  
+- Improved query performance by **40%** through **ETL pipelines** and database tuning.  
+- Worked across **SQL** and **NoSQL** systems to support high-performance data workflows.
+
 
 I'm passionate about solving complex problems with clean, scalable code. I’m currently exploring opportunities where I can contribute to cutting-edge backend, cloud, or AI products—while continuing to grow as a full-stack engineer and cloud specialist. 🚀
 
