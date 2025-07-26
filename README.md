@@ -47,19 +47,21 @@ I'm passionate about solving complex problems with clean, scalable code. I’m c
 
 
 ## 💼 Professional Experience
-- **iAssist Innovations Labs**: I've played a key role in developing and optimizing health insurance claim processing applications, leveraging Python and Flask to enhance system security and functionality. My work has included everything from SDLC orchestration to leading teams in the deployment of scalable microservices.
-- **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of UCustoms, a modernization solution for the Royal Malaysian Customs Department, enhancing user satisfaction and system stability through meticulous development and testing.
+- **University of North Texas**: As a Teaching Assistant, I developed A11yPDF, an ML-powered accessibility tool evaluated by 159+ users, and led the creation of a license plate recognition system using TensorFlow and EasyOCR. I also built a dynamic survey platform that improved engagement tracking and response rates.
 
-## 🎓 Academic Projects
-- **PDF Analyzer**: Developed a system for automatic PDF analysis, extracting key elements and generating word frequency charts for efficient document comprehension.
-- **Event Sphere**: Led the development of a platform for crafting tailor-made events, enhancing participant engagement and facilitating data-driven decision-making.
+- **iAssist Innovations Labs**: Played a key role in developing and optimizing health insurance claim processing systems, leveraging Python, Flask, and ML to improve security, scalability, and automation. Led end-to-end SDLC processes, deployed microservices on AWS with Docker, and implemented CI/CD pipelines for seamless delivery.
+
+- **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of uCustoms, a national-scale modernization solution for the Royal Malaysian Customs Department. Delivered core modules, optimized SQL performance, improved stability through bug resolution, and enhanced user workflows through intelligent feature implementation.
+
+- **Boven Technologies**: Designed and built an online testing platform and the MGPS gate pass system for NTPC. Leveraged .NET, SQL Server, and front-end technologies to streamline workflows, improve data accuracy, and reduce administrative time by 50%, all while supporting secure authentication and dashboard analytics.
 
 ## 🏆 Certifications & Achievements
 - Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
-- Actively pursuing AWS Cloud Practitioner and Solutions Architect certifications to further my knowledge in cloud technologies.
+- Our paper "A11yPDF: Bridging the Gap to Inclusive PDFs", co-authored with Dr. Wajdi Aljedaani, was accepted as a tool paper at
+Web4All 2024.
 
 ## 📫 How to Reach Me
-- 📄 Email: **SandeepKumarRudhravaram@my.unt.edu**
+- 📄 Email: **connect@sandeepkumarrudhravaram.com**
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="15" width="25" />  LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
 
 <h3 align="left">Connect with me:</h3>
