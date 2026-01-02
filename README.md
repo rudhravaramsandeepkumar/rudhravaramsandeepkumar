@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/rudhravaramsandeepkumar/images/main/Sandeepv2.png)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
