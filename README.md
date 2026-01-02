@@ -12,29 +12,26 @@
 
 # 💼 Career Highlights
 
-### Health Insurance Claims  
-- Led development of a **Flask-based automation system** achieving **95%+ accuracy** in claims processing.  
-- Integrated a **computer vision module** for automated document data extraction.
+### Banking & Financial Systems  
+- Led development of enterprise-scale banking platforms supporting core banking, e-banking, payments, and cash management.
+- Built secure transaction workflows handling high-volume financial operations with strong fault tolerance.
 
 ### Microservices & APIs  
-- Designed and deployed **10+ RESTful APIs**, adopted by **500+ hospitals**.  
-- Embedded **machine learning models** for claim risk prediction with **80% accuracy**.
+- Designed and implemented 20+ RESTful microservices using Java, Spring Boot, and Golang.  
+- Integrated Kafka-based event-driven architectures to improve scalability, resiliency, and asynchronous processing.
 
 ### Cloud & DevOps  
-- Managed production infrastructure on **AWS and Azure**.  
-- Set up **CI/CD pipelines** using **GitHub Actions and Docker**, increasing release speed by **80%**.
+- Deployed and managed cloud-native services on AWS (EKS, EC2, RDS, S3, Lambda) and Kubernetes.
+- Built CI/CD pipelines with Jenkins and Docker, reducing release cycles and manual deployment effort by 90%.
+  
+### Backend Engineering
+- Developed high-performance backend services using Java 17, Spring, Hibernate, and gRPC.
+- Designed stateless services with externalized state to support safe autoscaling and production reliability.
 
-### Full-Stack Development  
-- Built dynamic web apps using **React**, **Node.js**, and **Flask**.  
-- Combined responsive UI design with robust backend logic for scalable products.
-
-### UI/UX Focus  
-- Enhanced product efficiency by **85%** through UX optimization and front-end validation.  
-- Reduced user-facing errors by **45%** via thoughtful interaction design.
 
 ### Database Optimization  
-- Improved query performance by **40%** through **ETL pipelines** and database tuning.  
-- Worked across **SQL** and **NoSQL** systems to support high-performance data workflows.
+- Optimized SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB, Oracle) for large-scale workloads.
+- Built efficient data access layers using Hibernate, JPA, and Dapper, improving data handling efficiency by 25%.
 
 
 I'm passionate about solving complex problems with clean, scalable code. I’m currently exploring opportunities where I can contribute to cutting-edge backend, cloud, or AI products—while continuing to grow as a full-stack engineer and cloud specialist. 🚀
@@ -47,13 +44,13 @@ I'm passionate about solving complex problems with clean, scalable code. I’m c
 
 
 ## 💼 Professional Experience
-- **University of North Texas**: As a Teaching Assistant, I developed A11yPDF, an ML-powered accessibility tool evaluated by 159+ users, and led the creation of a license plate recognition system using TensorFlow and EasyOCR. I also built a dynamic survey platform that improved engagement tracking and response rates.
+- **Citi Bank (Senior Software Engineer)**: Led end-to-end development across 15+ modules, building scalable Java 17 and Spring Boot microservices. Designed Kafka-based event-driven systems, optimized CI/CD pipelines by 90%, and deployed cloud-native services on AWS using Docker and Kubernetes.
 
-- **iAssist Innovations Labs**: Played a key role in developing and optimizing health insurance claim processing systems, leveraging Python, Flask, and ML to improve security, scalability, and automation. Led end-to-end SDLC processes, deployed microservices on AWS with Docker, and implemented CI/CD pipelines for seamless delivery.
+- **eBay (Software Engineer)**: Developed and scaled backend services using Java, Spring Boot, and Golang. Built 20+ REST APIs, implemented Kafka for high-throughput messaging (100K msgs/sec), improved frontend performance with React, and maintained 99.9% uptime on AWS infrastructure.
 
-- **Agility E-Services Pvt. Ltd**: Contributed significantly to the development of uCustoms, a national-scale modernization solution for the Royal Malaysian Customs Department. Delivered core modules, optimized SQL performance, improved stability through bug resolution, and enhanced user workflows through intelligent feature implementation.
+- **Agility E-Services Pvt. Ltd (Jr. Software Developer)**: CBuilt Python and Django-based backend systems, designed REST APIs using Django REST Framework, deployed applications on AWS, optimized SQL queries, and improved delivery speed by 50% through reusable components and Agile practices.
 
-- **Boven Technologies**: Designed and built an online testing platform and the MGPS gate pass system for NTPC. Leveraged .NET, SQL Server, and front-end technologies to streamline workflows, improve data accuracy, and reduce administrative time by 50%, all while supporting secure authentication and dashboard analytics.
+- **Kaiser Permanente (Associate Software Developer)**: Developed Java Spring Boot microservices integrated with Angular and Node.js for healthcare platforms. Improved data retrieval performance by 25%, increased test coverage to 90%, and supported secure SOAP/REST integrations with MS SQL Server and Tomcat.
 
 ## 🏆 Certifications & Achievements
 - Winner of the "Best Use of AI in Education" at HackUNT, November 2023.
@@ -67,8 +64,6 @@ Web4All 2024.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sandeepkumar_rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sandeepkumar_rsk" height="30" width="40" /></a>
-<a href="https://discord.gg/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudhravaramsandeepkumar&show_icons=true&locale=en&layout=compact" alt="rudhravaramsandeepkumar" /></p>
