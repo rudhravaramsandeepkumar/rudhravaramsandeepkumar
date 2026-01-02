@@ -58,13 +58,9 @@ I'm passionate about solving complex problems with clean, scalable code. I’m c
 Web4All 2024.
 
 ## 📫 How to Reach Me
-- 📄 Email: **connect@sandeepkumarrudhravaram.com**
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="15" width="25" />  LinkedIn: [https://www.linkedin.com/in/sandeepkumarrudhravaram](https://www.linkedin.com/in/sandeepkumarrudhravaram)
+- 📄 Email: **mail.sandeeprdev@gmail.com**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="15" width="25" />  LinkedIn: [https://www.linkedin.com/in/connect-sandy/](https://www.linkedin.com/in/connect-sandy/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandeepkumarrudhravaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumarrudhravaram" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudhravaramsandeepkumar&show_icons=true&locale=en&layout=compact" alt="rudhravaramsandeepkumar" /></p>
 
